@@ -1,0 +1,12 @@
+#btn{
+  color:white;
+  background-color: rgb(9, 164, 230);
+  height: 50px;
+  width:200px;
+  font-size:18px;
+  font-weight:500;
+}
+#btn:hover{
+  color:white;
+  background-color: black;
+}
